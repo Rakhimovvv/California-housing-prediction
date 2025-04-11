@@ -27,4 +27,8 @@ This project is a machine learning pipeline for predicting **median house values
 2. Run the notebook or script (`.ipynb` or `.py`)  
 3. All preprocessing is handled via pipelines – ready for model training!
 
+## Rakhimov Dev
+
+
 ## 📁 Folder structure
+Rakhimov Dev
